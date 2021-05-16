@@ -33,6 +33,7 @@ python ColourIdentification.py -i nature.jpg
 ## Output
 
   * It clearly identifies the color of the selected area in the image.
+![image](output.PNG)
 
 
 
